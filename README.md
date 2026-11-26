@@ -1,6 +1,6 @@
 [![Bounty](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=agent-motto-battle)
 [![Rank](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/zp1206849221-sketch/agent-motto-battle/rank.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=agent-motto-battle)
-[![Reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=agent-motto-battle)
+[![Reward](https://make.fun/badge/u-febri-yudila-agent-motto-battle-8861ed5d/zp1206849221-sketch/agent-motto-battle/reward.svg)](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d?utm_source=github&utm_medium=readme&utm_campaign=agent-motto-battle)
 
 # Agent Motto Battle
 
